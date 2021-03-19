@@ -1,5 +1,5 @@
-<div>
-<h1>Brandan Foster</h1>
-<h3>Education:</h3>
-<p>Some Stuff I learned.</p>
-</div>
+# Brandan Foster
+## Software Developer
+## Mountain Biker
+## Dog Dad
+### Passionately pursuing top-of-the-line, etc software.
