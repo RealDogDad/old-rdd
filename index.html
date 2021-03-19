@@ -8,8 +8,39 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="A site displaying my finished projects">
     <meta name="author" content="Brandan Foster ad aeternum">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/navbar-top-fixed.css" rel="stylesheet">
 </head>
-<body>>
+<body>
+    
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#">getfoster.net</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav me-auto mb-2 mb-md-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.html">home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="pages/about.html">about</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="pages/cv.html">c.v.</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">projects</a>
+              </li>
+            </ul>
+            <form class="d-flex">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">search</button>
+            </form>
+          </div>
+        </div>
+    </nav>
     <div class="main">
         <h1>Under Construction</h1>
         <h2>For now head to <a href="https://www.getfoster.net/hire-me">my old site</a></h2>
