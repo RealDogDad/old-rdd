@@ -3,11 +3,11 @@
 
 I enjoy building cloud applications and managing dataframes.
 
-[![Email bfoster](https://img.shields.io/badge/Email-n8ebel@goobar.dev-red?style=for-the-badge)](mailto:brandan@getfoster.net)
+[![Email bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-greeb?style=for-the-badge)](mailto:brandan@getfoster.net)
 <br>
-[![Website bfoster](https://img.shields.io/badge/Website-@goobar-yellow?style=for-the-badge)](https:www.getfoster.net/hire-me)
-[![Twitter realdogdad](https://img.shields.io/badge/Twitter-@n8ebel-9cf?style=for-the-badge)](https://twitter.com/real_dog_dad)
-[![LinkedIn bfoster](https://img.shields.io/badge/LinkedIn-@n8ebel-blue?style=for-the-badge)](https://www.linkedin.com/in/getfoster/)
+[![Website bfoster](https://img.shields.io/badge/Website-./getfoster-yellow?style=for-the-badge)](https:www.getfoster.net/hire-me)
+[![Twitter realdogdad](https://img.shields.io/badge/Twitter-@real_dog_dad-9cf?style=for-the-badge)](https://twitter.com/real_dog_dad)
+[![LinkedIn bfoster](https://img.shields.io/badge/LinkedIn-getfoster-blue?style=for-the-badge)](https://www.linkedin.com/in/getfoster/)
 <br>
 
 ```kotlin
