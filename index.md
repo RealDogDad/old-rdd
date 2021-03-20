@@ -1,39 +1,17 @@
 ## Brandan Foster - @realdogdad
-### What do? 👋
+[Home][1]
+[About][2]
+[Bio][3]
+[C.V.][4]
 
-I enjoy building cloud applications and managing dataframes.
+
+I'm a former Marine who thoroughly enjoys applying mathematics and statistics to structured and unstructured data, building cloud based applications with CI/CD principles and promoting technology adoption and literacy in senior citizen communities.
 
 [![Email bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-greeb?style=for-the-badge)](mailto:brandan@getfoster.net)
-<br>
 [![Website bfoster](https://img.shields.io/badge/Website-./getfoster-yellow?style=for-the-badge)](https:www.getfoster.net/hire-me)
 [![Twitter realdogdad](https://img.shields.io/badge/Twitter-@real_dog_dad-9cf?style=for-the-badge)](https://twitter.com/real_dog_dad)
 [![LinkedIn bfoster](https://img.shields.io/badge/LinkedIn-getfoster-blue?style=for-the-badge)](https://www.linkedin.com/in/getfoster/)
-<br>
-
-```kotlin
-object Nate {
- val name = "Nate Ebel"
- val acknowledgements = "Google Developer Expert"
- 
- val primarySkillset = "Android"
- val languages = listOf("Kotlin", "Java", "Python")
-
- val website = "https://goobar.io/"
- val youtube = "http://youtube.com/c/goobar"
- val podcast = "https://goobar.buzzsprout.com/"
- val contact = "@n8ebel".apply {
-   twitter = this
-   linkedin = this
-   email = "$this@goobar.dev"
- }
- 
- val publishedBooks = listOf("Mastering Kotlin")
- val publishedCourses 
-     = listOf(
-         "Getting Started with Android Development" to "Pluralsight", 
-         "AD340 - Intro to Android Development" to "North Seattle College",
-         "Intro to Kotlin" to "freeCodeCamp"
-         )
-
-}
-``
+[1]: https://realdogdad.github.io/index.md
+[2]: https://realdogdad.github.io/README.md
+[3]: https://realdogdad.github.io/about.md
+[4]: https://realdogdad.github.io/cv.md

@@ -1,0 +1,17 @@
+Intro Blurb
+Name
+1 sentence on what you do (or want to do)
+1-2 sentences elaborating on the aforementioned referencing location.
+contact button
+=======================================================
+About
+1-2 paragraphs of overview including education and 6 core skills.
+=======================================================
+Experience
+List 5 projects and the results and what you learned.
+=======================================================
+Background
+List previous career positions in short concise sentences.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Portfolio
+A quick blurb and link to all projects.
