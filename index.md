@@ -6,5 +6,5 @@ I'm a former Marine who thoroughly enjoys applying mathematics and statistics to
 [![Website bfoster](https://img.shields.io/badge/Website-./getfoster-yellow?style=for-the-badge)](https:www.getfoster.net/hire-me)
 [![Twitter realdogdad](https://img.shields.io/badge/Twitter-@real_dog_dad-9cf?style=for-the-badge)](https://twitter.com/real_dog_dad)
 [![LinkedIn bfoster](https://img.shields.io/badge/LinkedIn-getfoster-blue?style=for-the-badge)](https://www.linkedin.com/in/getfoster/)
-[Education](../cv.md)
-[About](../about.md)
+[Education](cv.md)
+[About](about.md)
