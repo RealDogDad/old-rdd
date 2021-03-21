@@ -1,7 +1,7 @@
 ## Brandan Foster - Curriculum Vitae
 ### Organization|Class|Learning Objectives
 | Organization      | Course Title  | Date |
-|-------------------|---------------|:----:|
+|-------------------|---------------|-----|
 | Nova Southeastern University | Marine Security Guard School | 20131123 |
 | United States Marine Corps | Transistion Readiness Seminar | 20161017 |
 | United States Marine Corps | Personal Risk Assessment & Management | 20160812 |
@@ -32,3 +32,5 @@
 | United States Marine Corps | Combat Lifesaver Instructor's Course | 20130617 |
 | United States Marine Corps | Infantry Rifleman - Infantry Training Battalion | 20111214 |
 | United States Marine Corps | Marine Corps Recruit Training | 20110610 |
+
+
