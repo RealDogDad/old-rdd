@@ -1,8 +1,8 @@
 ## Brandan Foster - Curriculum Vitae
 ### Organization|Class|Learning Objectives
-| Organization      | Course Title  | Date |<br>
-|-------------------|---------------|-----|<br>
-| Nova Southeastern University | Marine Security Guard School | 20131123 |<br>
+| Organization      | Course Title  | Date |
+|-------------------|---------------|-----|
+| Nova Southeastern University | Marine Security Guard School | 20131123 |
 | United States Marine Corps | Transistion Readiness Seminar | 20161017 |
 | United States Marine Corps | Personal Risk Assessment & Management | 20160812 |
 | United States Marine Corps | Sexual Assault Prevention & Response Annual Training (All Hands) | 20160218 |
