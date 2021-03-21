@@ -5,8 +5,8 @@ This is my portfolio. Oh and also where I keep some guides. Feel free to use the
 
 [A little about me](about.md)   | [What I've learned](cv.md) | Notes<br>
 
-<p>First name: {{sampledata.name.first}}</p>
-<p>Second name: {{sampledata.name.last}}</p><br>
+<p>First name: {{site.data.sampledata.name.first}}</p>
+<p>Second name: {{site.data.sampledata.name.last}}</p><br>
 
 [![Email bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-green?style=for-the-badge)](mailto:brandan@getfoster.net)
 [![Website bfoster](https://img.shields.io/badge/Website-./getfoster-yellow?style=for-the-badge)](https:www.getfoster.net/hire-me)
