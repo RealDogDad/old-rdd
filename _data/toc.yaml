@@ -1,16 +1,11 @@
 toc:
-  - title: Group 1
+  - title: Portfolio
     subfolderitems:
-      - page: Thing 1
-      - page: Thing 2
-      - page: Thing 3
-  - title: Group 2
+      - page: [About Me](about.md)
+      - page: [Skills](skills.md)
+      - page: [Education](cv.md)
+  - title: References
     subfolderitems:
-      - page: Piece 1
-      - page: Piece 2
-      - page: Piece 3
-  - title: Group 3
-    subfolderitems:
-      - page: Widget 1
-      - page: Widget 2 it's
-      - page: Widget 3
+      - page: Cheatsheets
+      - page: Guides
+      - page: Notes
