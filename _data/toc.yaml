@@ -1,9 +1,9 @@
 toc:
   - title: title 1
     subfolderitems:
-      - page: [About Me](about.md)
-      - page: [Skills](skills.md)
-      - page: [Education](cv.md)
+      - page: About Me
+      - page: Developer Skills
+      - page: Curriculum Vitae
   - title: References
     subfolderitems:
       - page: Cheatsheets
