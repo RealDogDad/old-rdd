@@ -7,9 +7,9 @@ title: Brandan Foster Portfolio
 
  {{site.time}}
  {% if site.time <= {{site.date.me.info.gradDate}}%}
- {{site.date.me.info.postGrad}}
+ Post Grad
  {% elsif %}
- {{site.date.me.info.preGrad}}
+ Pre Grad
  {% endif %}
 
 [A little about me](about.md)   | [What I've learned](cv.md) | Notes<br>
