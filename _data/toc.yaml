@@ -1,7 +1,7 @@
 toc:
   - title: Portfolio
     subfolderitems:
-      - page: {{site.data.page_urls.link}}
+      - page: {{site.data.page_urls.pages_internal.link}}
       - page: <a href="cv.md">Curriculum Vitae</a>
       - page: Projects
   - title: References
