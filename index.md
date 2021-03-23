@@ -1,6 +1,11 @@
+---
+layout: default
+title: Brandan Foster Portfolio
+---
+
 ### Brandan Foster | Software Developer | Lifelong Learner
 
-## {{page.date}}
+ {{site.time | date: '%y'}}
 
 [A little about me](about.md)   | [What I've learned](cv.md) | Notes<br>
 {% for item in site.data.toc.toc %}
