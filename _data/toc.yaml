@@ -1,9 +1,9 @@
 toc:
-  - title: title 1
+  - title: Porfolio
     subfolderitems:
       - page: About Me
-      - page: Developer Skills
-      - page: Curriculum Vitae
+      - page: Curriculum Citae
+      - page: Projects
   - title: References
     subfolderitems:
       - page: Cheatsheets
