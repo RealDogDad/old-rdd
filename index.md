@@ -5,7 +5,8 @@ title: Brandan Foster Portfolio
 
 ### Brandan Foster | Software Developer | Lifelong Learner
 
- {{site.time | date: '%y'}}
+ {{site.time}}
+ 
 
 [A little about me](about.md)   | [What I've learned](cv.md) | Notes<br>
 {% for item in site.data.toc.toc %}
