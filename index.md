@@ -1,5 +1,4 @@
-# {{site.data.sampledata.name.first}} {{site.data.sampledata.name.last}}
-## Software Developer and Lifelong Learner
+### Brandan Foster | Software Developer | Lifelong Learner
 
 This is my portfolio. Oh and also where I keep some guides. Feel free to use them, or submit corrections.
 
