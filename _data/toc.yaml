@@ -1,8 +1,8 @@
 toc:
   - title: Portfolio
     subfolderitems:
-      - page: About Me
-      - page: Curriculum Citae
+      - page: [About Me](about.md)
+      - page: Curriculum Vitae
       - page: Projects
   - title: References
     subfolderitems:
