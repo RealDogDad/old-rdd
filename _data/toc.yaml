@@ -1,7 +1,7 @@
 toc:
   - title: Portfolio
     subfolderitems:
-      - page: {{site.data.page_urls.pages_internal.link}}
+      - page: <a href='about.md'>About Me</a>
       - page: <a href='cv.md'>Curriculum Vitae</a>
       - page: <a href='www.getfoster.net'>Projects</a>
   - title: References
