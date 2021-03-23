@@ -1,6 +1,6 @@
 ### Brandan Foster | Software Developer | Lifelong Learner
 
-This is my portfolio. Oh and also where I keep some guides. Feel free to use them, or submit corrections.
+{{page.date}}
 
 [A little about me](about.md)   | [What I've learned](cv.md) | Notes<br>
 {% for item in site.data.toc.toc %}
