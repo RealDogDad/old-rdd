@@ -1,8 +1,3 @@
----
-layout: page
-title: "Curriculum Vitae for Brandan Foster"
-permalink: cv.md
----
 
 ## Brandan Foster - Curriculum Vitae
 ### Organization|Class|Learning Objectives
