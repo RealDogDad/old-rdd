@@ -15,11 +15,14 @@ info:
     preGrad: I am a Senior in North Seattle College's Application Developement Program. I expect to graduate in June 2021.
     postGrad: I am a recent graduate from North Seattle College's Application Development Program.
     gradDate: 1 
-    blurb: |
+    blurb: >
         "I want to work with startups to bring their vision to the world. I am a 'fire and forget' developer with experience in Web, Mobile, and Cloud development."
 
 skills:
-    web: "Node.js, VanillaJS, React, LAMP, MERN, MEAN"
-    mobile: "Java, Kotlin, Xamarin"
-    cloud: "Azure, AWS, Google Cloud Platform"
-    cicd: "Travis CI, Github Actions"
+- title: Development Skills
+ subfolderitems:
+    - skill: "Web: Node.js, VanillaJS, React, LAMP, MERN, MEAN"
+    - skill: "Mobile: Java, Kotlin, Xamarin"
+    - skill: "Cloud: Azure, AWS, Google Cloud Platform"
+    - skill: "IaaC: Travis CI, Github Actions"
+    - skill: "Fundamentals: OOP, MVC/MVVM/MVM, Data Structures and Algorithms"
