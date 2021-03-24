@@ -6,13 +6,6 @@ time: 1
 
 ### Brandan Foster | Software Developer | Lifelong Learner
 
-{{site.time}}
-{% if site.time <= {{site.date.me.info.gradDate}}%}
-Post Grad
-{% elsif %}
-Pre Grad
-{% endif %}
-
 [A little about me](about.md)   | [What I've learned](cv.md) | Notes<br>
 {% for item in site.data.toc.toc %}
 <h3>{{item.title}}</h3>
