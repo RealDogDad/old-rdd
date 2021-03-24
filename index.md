@@ -11,10 +11,12 @@ permalink: /home/
 {{site.data.me.info.preGrad}}
 {{site.data.me.info.blurb}}
 <br>
-<h3>{{site.data.devSkills.item.title}}</h3>
+
+{% for item in site.data.devSkills.toc %}
+<h3>{{item.title}}</h3>
 <ul>
-{% for entry in site.data.devSkills.skills.item.subfolderitems %}
-<li>{{entry.skill}}</li>
+{% for entry in item.subfolderitems %}
+<li>{{entry.page}}</li>
 {% endfor %}
 </ul>
 {% endfor %}
