@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Curriculum Vitae for Brandan Foster"
+permalink: /home/cv/
+---
+
 ## Brandan Foster - Curriculum Vitae
 ### Organization|Class|Learning Objectives
 | Organization      | Course Title  | Date |
