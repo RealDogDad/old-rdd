@@ -34,4 +34,4 @@ Nova Southeastern University | Marine Security Guard School | 20131123
  United States Marine Corps | Combat Lifesaver Instructor's Course | 20130617 
  United States Marine Corps | Infantry Rifleman - Infantry Training Battalion | 20111214 
  United States Marine Corps | Marine Corps Recruit Training | 20110610 
-<div class="datatable-begin"></div>
+<div class="datatable-end"></div>
