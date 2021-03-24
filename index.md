@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Brandan Foster Portfolio
+time: 1
 ---
 
 ### Brandan Foster | Software Developer | Lifelong Learner
@@ -27,3 +28,4 @@ Pre Grad
 [![Twitter realdogdad](https://img.shields.io/badge/Twitter-@real_dog_dad-9cf?style=for-the-badge)](https://twitter.com/real_dog_dad)
 [![LinkedIn bfoster](https://img.shields.io/badge/LinkedIn-getfoster-blue?style=for-the-badge)](https://www.linkedin.com/in/getfoster/) <br>
 
+\

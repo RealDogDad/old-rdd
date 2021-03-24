@@ -3,11 +3,14 @@ Name
 1 sentence on what you do (or want to do)
 1-2 sentences elaborating on the aforementioned referencing location.
 contact button
+Soon-to-Graduate: June 2021
+I want to work with startups to bring their vision to the world. I am a 'fire and forget' developer with experience in Web, Mobile, and Cloud development. 
 =======================================================
 About
 1-2 paragraphs of overview including education and 6 core skills.
 =======================================================
 Experience
+Web - 
 List 5 projects and the results and what you learned.
 =======================================================
 Background

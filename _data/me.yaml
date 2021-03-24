@@ -10,8 +10,14 @@ dob:
     day: 08
     month: May
     year: 1992
+
 info:
     preGrad: I am a Senior in North Seattle College's Application Developement Program.
     postGrad: I am a recent graduate from North Seattle College's Application Development Program.
-    gradDate: '2021-06-25 06:00:00 +0000' 
-    
+    gradDate: 1 
+
+skills:
+    web: "Node.js, VanillaJS, React, LAMP, MERN, MEAN"
+    mobile: "Java, Kotlin, Xamarin"
+    cloud: "Azure, AWS, Google Cloud Platform"
+    cicd: "Travis CI, Github Actions"
