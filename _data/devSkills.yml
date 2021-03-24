@@ -1,0 +1,7 @@
+skills:
+- title: Development Skills
+ subfolderitems:
+   - skill: "<p>Web: Node.js, VanillaJS, React, LAMP, MERN, MEAN</p>"
+   - skill: "<p>Mobile: Java, Kotlin, Xamarin</p>"
+   - skill: "<p>Cloud: Azure, AWS, Google Cloud Platform</p>"
+   - skill: "<p>Fundamentals: OOP, MVC/MVVM/MVM, Data Structures and Algorithms</p>"
