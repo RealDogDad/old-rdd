@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Brandan Foster | Applications Developer"
-permalink: /home/
+permalink: index.md
 ---
 
 # Brandan Foster | Software Developer | Lifelong Learner

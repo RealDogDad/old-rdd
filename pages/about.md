@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Brandan Foster"
-permalink: /home/about/
+permalink: about.md
 ---
 
 # A Little About Brandan Foster

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Curriculum Vitae for Brandan Foster"
-permalink: /home/cv/
+permalink: cv.md
 ---
 
 ## Brandan Foster - Curriculum Vitae
