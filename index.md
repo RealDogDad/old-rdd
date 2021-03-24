@@ -4,7 +4,7 @@
 <br>
 {{site.data.me.info.preGrad}}
 {{site.data.me.info.blurb}}
-{% for item in site.data.me.skills %}
+<br>
 <h3>{{item.title}}</h3>
 <ul>
 {% for entry in item.subfolderitems %}
