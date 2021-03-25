@@ -1,1 +1,1 @@
-![alt text](img/awards/image.jpg?raw=true)
+![alt text](img/awards/image)
