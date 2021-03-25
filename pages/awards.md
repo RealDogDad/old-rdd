@@ -1,1 +1,1 @@
-![alt text](img/awards/image)
+<img src="\img\awards\image.jpg">
