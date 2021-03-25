@@ -4,6 +4,7 @@
 <br>
 {{site.data.me.info.preGrad}}
 {{site.data.me.info.blurb}}
+[Awards](/pages/awards.md)
 <br>
 [![Email bfoster](https://img.shields.io/badge/Email-brandan@getfoster.net-greeb?style=for-the-badge)](mailto:brandan@getfoster.net)
 [![Website bfoster](https://img.shields.io/badge/Website-./getfoster-yellow?style=for-the-badge)](https:www.getfoster.net/hire-me)
