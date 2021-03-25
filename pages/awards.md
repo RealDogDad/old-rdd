@@ -1,1 +1,1 @@
-<img src="\img\awards\image.jpg">
+<img src="\img\awards\dos_cerapp.png">
