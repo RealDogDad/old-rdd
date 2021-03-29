@@ -1,6 +1,11 @@
-## Awards 
+# Awards 
 <br>
-<img src="\img\awards\dos_cerapp.png"><br>
-<img src="\img\awards\8thIcerserv.png"><br>
-<img src="\img\awards\msgschool.png"><br>
-<img src="\img\awards\occert.png"><br>
+<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt={{site.data.awards.dos}}><br>
+<!--<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt="25"><br>
+<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt="25"><br>
+<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt="25"><br>
+<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt="25"><br>
+<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt="25"><br>
+<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt="25"><br>
+<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt="25"><br>
+<img src="\img\awards\dos_cerapp.png"style="height:180px;width:180px;" alt="25"><br>-->
