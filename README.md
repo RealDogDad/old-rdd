@@ -4,19 +4,4 @@
 [![Twitter realdogdad](https://img.shields.io/badge/Twitter-@real_dog_dad-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/real_dog_dad)
 [![GitHub RealDogDad](https://img.shields.io/badge/GitHub-@RealDogDad-181717?style=for-the-badge&logo=github)](https://github.com/RealDogDad)
 <br>
-# [A little about me](/pages/about.md)   | [What I've learned](/pages/cv.md) | [Awards](/pages/awards.md) | [Projects](/pages/projects.md)
-<br>
-{{site.data.me.info.preGrad}}
-{{site.data.me.info.blurb}}
-
-<br>
-
-{% for item in site.data.devSkills.toc %}
-<h3>{{item.title}}</h3>
-<ul>
-{% for entry in item.subfolderitems %}
-<li>{{entry.page}}</li>
-{% endfor %}
-</ul>
-{% endfor %}
-<!-- -->
+[A little about me](https://www.realdogdad.dev/pages/about.html)   | [What I've learned](https://www.realdogdad.dev/pages/cv.html) | [Awards](https://www.realdogdad.dev/pages/awards.html) | [Projects](https://www.realdogdad.dev/pages/projects.html)
