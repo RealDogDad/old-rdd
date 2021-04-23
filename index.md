@@ -4,7 +4,7 @@
 [![Twitter realdogdad](https://img.shields.io/badge/Twitter-@real_dog_dad-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/real_dog_dad)
 [![GitHub RealDogDad](https://img.shields.io/badge/GitHub-@RealDogDad-181717?style=for-the-badge&logo=github)](https://github.com/RealDogDad)
 <br>
-# [A little about me](/pages/about.md)   | [What I've learned](/pages/cv.md) | [Awards](/pages/awards.md) | [Projects](/pages/projects.md)
+# [A little about me](/pages/about.md)   | [What I've learned](/pages/cv.md) | [Awards](/pages/awards.md) | [Projects](/pages/projects.md) | [Testing] (/pages/testing.md)
 <br>
 {{site.data.me.info.preGrad}}
 {{site.data.me.info.blurb}}
