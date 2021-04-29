@@ -8,5 +8,5 @@
 <br>
 <!--LINKS(Work,Projects,Games(TBD))-->
 
-# [Work](/pages/work.md) | [Projects](/pages/projects.md) | [Title TBD](/pages/awards.md) | [Projects](/pages/projects.md) | [Testing](/pages/testing.md) | [Notes](/pages/notes.md)
+# [Work](/pages/work.md) | [Projects](/pages/portfolio/projects.md) | [Notes](/pages/notes.md) | [MilSim](/pages/awards.md) |
 <!--End Page -->
