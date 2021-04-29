@@ -1,4 +1,6 @@
-
+<!-- This is for my notes-->
 # Notes
-[Data Science](/pages/ad470.md)
-[M.Ö.B.](/pages/ad490.md)
+[Data Science](notes/pages/ad470.md)
+[M.Ō.B.](notes/pages/ad490.md)
+[Serverless Artillery](notes/pages/sls.md)
+<!--End Page -->
