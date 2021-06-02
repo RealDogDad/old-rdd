@@ -1,16 +1,25 @@
-- name: StackOverflow
-  URL: https://stackoverflow.com/users/10534841/realdogdad
-- name: Dev.to
-  URL: https://dev.to/realdogdad
-- name: Patreon
-  URL: https://www.patreon.com/realdogdad
-- name: Twitter
-  URL: https://www.twitter.com/real_dog_dad
-- name: LinkedIn
-  URL: https://www.linkedin.com/in/realdogdad/
-- name: Codepen.io
-  URL: https://codepen.io/realdogdad
-- name: Github
-  URL: https://github.com/RealDogDad
-- name: Youtube
-  URL: https://www.youtube.com/c/RealDogDad
+profile:
+  - name: StackOverflow
+    URL:
+      - link: https://stackoverflow.com/users/10534841/realdogdad
+  - name: Dev.to
+    URL:
+      - link: https://dev.to/realdogdad
+  - name: Patreon
+    URL:
+    - link: https://www.patreon.com/realdogdad
+  - name: Twitter
+    URL:
+    - link: https://www.twitter.com/real_dog_dad
+  - name: LinkedIn
+    URL:
+    - link: https://www.linkedin.com/in/realdogdad/
+  - name: Codepen.io
+    URL:
+    - link: https://codepen.io/realdogdad
+  - name: Github
+    URL:
+    -link: https://github.com/RealDogDad
+  - name: Youtube
+    URL:
+    - link: https://www.youtube.com/c/RealDogDad
