@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Intro Blurb
 Name
 1 sentence on what you do (or want to do)
@@ -27,3 +28,13 @@ A quick blurb and link to all projects.
 https://www.patreon.com/realdogdad
 + Twitter
 
+=======
+========= ME
+Name: Brandan Foster
+Email: brandan@getfoster.net
+Handle: RealDogDad
+Tagline: "The root of education is bitter, the fruit is sweet" - Isocarates
+Blurb: Hey there, its Brandan. I'm a USMC Veteran who just graduated with a degree in Applications Development and am ready to learn from the industry's best Engineers, Designers, and Architects. I focused my time in school on cloud technologies but have successfully deployed a cross-platform mobile app. I am currently obssessed with IaC (Infrastructure as Code) through tools like Terraform, AWS CloudFormation, Azure Resource Manager, and Google Cloud Deployment Manager. In my off-time, I mountain bike, build gaming PCs and am an active part of a MilSim Unit "1st Battalion 1st Marines" in OWI's Squad.
+
+My perfect job would include automation, data analysis or delivery pipelines.
+>>>>>>> 4360ecb055fdb537df626849d0cfa09fbfb25b32
