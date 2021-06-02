@@ -1,13 +1,10 @@
 profile:
   - name: StackOverflow
-    URL:
-      - link: https://stackoverflow.com/users/10534841/realdogdad
+    link: https://stackoverflow.com/users/10534841/realdogdad
   - name: Dev.to
-    URL:
-      - link: https://dev.to/realdogdad
+    link: https://dev.to/realdogdad
   - name: Patreon
-    URL:
-    - link: https://www.patreon.com/realdogdad
+    link: https://www.patreon.com/realdogdad
   - name: Twitter
     URL:
     - link: https://www.twitter.com/real_dog_dad

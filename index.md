@@ -2,4 +2,8 @@
 {{site.data.test.fname}}
 {{site.data.test.lname}} IS
 {{site.data.test.handle}}
-{{site.data.account.profile.name}}
+<ul>
+{% for item in site.data.account.profile %}
+<li>[{{item.name}}]({{item.link}})</li>
+{% endfor %}
+</ul>
