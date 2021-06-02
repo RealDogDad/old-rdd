@@ -1,2 +1,2 @@
 ## This is my portfolio
-I'm honestly not sure what to put here, but I'll find enough or the right stuff to put on here. Until then, hang tight and drop me a line [email-me](emailto:brandan@getfoster.net)
+I'm honestly not sure what to put here, but I'll find enough or the right stuff to put on here. Until then, hang tight and drop me a line [email-me](mailto:brandan@getfoster.net)
