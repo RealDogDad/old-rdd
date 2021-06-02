@@ -1,20 +1,8 @@
-Intro Blurb
-Name
-1 sentence on what you do (or want to do)
-1-2 sentences elaborating on the aforementioned referencing location.
-contact button
-Soon-to-Graduate: June 2021
-I want to work with startups to bring their vision to the world. I am a 'fire and forget' developer with experience in Web, Mobile, and Cloud development. 
-=======================================================
-About
-1-2 paragraphs of overview including education and 6 core skills.
-=======================================================
-Experience
-Web - 
-List 5 projects and the results and what you learned.
-=======================================================
-Background
-List previous career positions in short concise sentences.
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++
-Portfolio
-A quick blurb and link to all projects.
+========= ME
+Name: Brandan Foster
+Email: brandan@getfoster.net
+Handle: RealDogDad
+Tagline: "The root of education is bitter, the fruit is sweet" - Isocarates
+Blurb: Hey there, its Brandan. I'm a USMC Veteran who just graduated with a degree in Applications Development and am ready to learn from the industry's best Engineers, Designers, and Architects. I focused my time in school on cloud technologies but have successfully deployed a cross-platform mobile app. I am currently obssessed with IaC (Infrastructure as Code) through tools like Terraform, AWS CloudFormation, Azure Resource Manager, and Google Cloud Deployment Manager. In my off-time, I mountain bike, build gaming PCs and am an active part of a MilSim Unit "1st Battalion 1st Marines" in OWI's Squad.
+
+My perfect job would include automation, data analysis or delivery pipelines.
