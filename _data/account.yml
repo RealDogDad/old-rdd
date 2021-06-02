@@ -6,17 +6,12 @@ profile:
   - name: Patreon
     link: https://www.patreon.com/realdogdad
   - name: Twitter
-    URL:
-    - link: https://www.twitter.com/real_dog_dad
+    link: https://www.twitter.com/real_dog_dad
   - name: LinkedIn
-    URL:
-    - link: https://www.linkedin.com/in/realdogdad/
+    link: https://www.linkedin.com/in/realdogdad/
   - name: Codepen.io
-    URL:
-    - link: https://codepen.io/realdogdad
+    link: https://codepen.io/realdogdad
   - name: Github
-    URL:
-    -link: https://github.com/RealDogDad
+    link: https://github.com/RealDogDad
   - name: Youtube
-    URL:
-    - link: https://www.youtube.com/c/RealDogDad
+    link: https://www.youtube.com/c/RealDogDad
