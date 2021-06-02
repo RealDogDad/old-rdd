@@ -18,3 +18,12 @@ List previous career positions in short concise sentences.
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Portfolio
 A quick blurb and link to all projects.
+
++ StackOverflow
+
++ Dev.to
+
++ Patreon
+https://www.patreon.com/realdogdad
++ Twitter
+
