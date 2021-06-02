@@ -1,2 +1,2 @@
 ### This is where the YAML value should appear.
-{{site.data.devSkills.toc.subolderitems[0]}}
+{{site.data.devSkills.toc.title[0]}}
